@@ -9,7 +9,7 @@
   </table>
 </center>  
 
-### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px"></h2>
+### Olá! Boas vindas :) <img src="https://github.com/raulmelo/raulmelo/blob/main/images/Hi.gif" width="30px"></h2>
 
 ---
 
@@ -20,11 +20,11 @@ Especializado em front-end e à caminho de se tornar um programador fullstack, a
 
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/raulmelo25"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/raulmelo25)   
+<a href="https://twitter.com/raulmelo25"><img src="https://github.com/raulmelo/raulmelo/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/raulmelo25)   
 
-<a href="https://www.linkedin.com/in/raul-melo/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/raul-melo)  
+<a href="https://www.linkedin.com/in/raul-melo/"><img src="https://github.com/raulmelo/raulmelo/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/raul-melo)  
 
-<a href="mailto:rulmelo.web@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:raulmelo.web@gmail.com)  
+<a href="mailto:rulmelo.web@gmail.com"><img src="https://github.com/raulmelo/raulmelo/blob/main/images/email.png" width="16"></img></a> [Email](mailto:raulmelo.web@gmail.com)  
 
 ---  
 
