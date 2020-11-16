@@ -14,7 +14,7 @@
 ---
 
 Desenvolvedor desde 2015, apaixonado por novas tecnologias.
-Especializado em front-end e à caminho de se tornar um programador fullstack, atual estou trabalhando com _Angular_, _React_ e Vue
+Especializado em front-end e à caminho de se tornar um programador fullstack, atualmente estou trabalhando com _Angular_, _React_ e Vue
 
 ---
 
