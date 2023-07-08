@@ -13,8 +13,9 @@
 
 ---
 
-Desenvolvedor desde 2015, apaixonado por novas tecnologias.
-Especializado em front-end e à caminho de se tornar um programador fullstack, atualmente estou trabalhando com _Angular_, _React_ e Vue
+Sou um desenvolvedor apaixonado por tecnologia, com experiência desde 2015. Ao longo dos anos foquei em especialização em front-end, mas também possuo habilidades sólidas em back-end. Atualmente, buscando constantemente expandir meu conhecimento e explorar novas possibilidades no desenvolvimento de software.
+
+Ao longo da minha carreira, tive a oportunidade de trabalhar em projetos desafiadores, o que me ajudou a desenvolver habilidades de resolução de problemas e trabalho em equipe. Acredito na importância de compartilhar conhecimentos e colaborar com outros profissionais, o que contribui para o crescimento coletivo.
 
 ---
 
